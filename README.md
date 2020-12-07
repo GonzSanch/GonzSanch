@@ -3,7 +3,7 @@
 Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 
 - 🔭 I’m currently studying **Computer Science** at 42Madrid
-- 🌱 I’m currently learning **C++**, **Laravel** and **React**
+- 🌱 I’m currently learning **C++**, **Laravel**, **React** and **python**
 - ⚙️ I'm currently working at **bootcamp_python** and **WebDev**
 ---
 ### 📬 Get in Touch
