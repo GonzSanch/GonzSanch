@@ -16,5 +16,3 @@ Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 ---
 ![Gonzalo's github stats](https://github-readme-stats.vercel.app/api?username=GonzSanch&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzSanch&layout=compact)
----
-[![Spotify](https://novatorem-flame-seven.vercel.app/api/spotify)](https://open.spotify.com/user/gonzc8)
