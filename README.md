@@ -3,8 +3,9 @@
 Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 
 - 🔭 I’m currently studying **Computer Science** at 42Madrid
-- 🌱 I’m currently learning **C++**, **React** and **python**
-- ⚙️ I'm currently working at **bootcamp_python**, **HelsinkiFullStackOpen** and **Webserv**
+- 🛰 I'm currently working as Software engineer at gmv
+- 🌱 I’m currently learning **C++**, **React**, **python**, **angular**, **typescript**
+- ⚙️ I'm currently working on these projects: **bootcamp_python**, **HelsinkiFullStackOpen** and **Webserv**
 ---
 ### 📬 Get in Touch
 
